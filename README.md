@@ -33,12 +33,3 @@
 > “I love turning ideas into real and functional projects.  
 > Every new language I learn is a new tool to create something meaningful.”
 
-
-### 💡 About Me:
-> “I love turning ideas into real and functional projects.  
-> Every new language I learn is a new tool to create something meaningful.”
-
----
-
-### 🐍 My Contributions Snake:
-![Snake animation](https://github.com/liviaalkds/liviaalkds/blob/output/github-contribution-grid-snake.svg)
