@@ -1,13 +1,15 @@
-# 👋 Hello, I'm Lívia!
+<h1 align="center">
+  💗 Hello, I'm <span style="color:#ff66b3;">Lívia!</span> 💻
+</h1>
 
-💻 **Full Stack Developer in development**  
-🎓 Student of **Analysis and Systems Development** at **IF Baiano**  
-⚡ Always seeking to learn new languages and technologies  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF66B3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+development;Passionate+about+learning+new+tech;Turning+ideas+into+reality+💫" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🌐 Let's Stay Connected:
-[![Linkedin Badge](https://img.shields.io/badge/-Lívia_Alkimim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviaalkds)](https://www.linkedin.com/in/liviaalkds)
+[![Linkedin Badge](https://img.shields.io/badge/-Lívia_Alkimim-ff66b3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviaalkds)](https://www.linkedin.com/in/liviaalkds)
 
 ---
 
@@ -32,11 +34,5 @@
 
 ---
 
-### 📈 GitHub Stats:
-![Lívia's GitHub stats](https://github-readme-stats.vercel.app/api?username=liviaalkds&show_icons=true&theme=radical)
-
----
-
-### 🟩 Contribution Activity:
-![Lívia's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liviaalkds&theme=radical&hide_border=false)
-![Lívia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liviaalkds&layout=compact&theme=radical)
+### 🐍 My Contributions Snake:
+![Snake animation](https://github.com/liviaalkds/liviaalkds/blob/output/github-contribution-grid-snake.svg)
