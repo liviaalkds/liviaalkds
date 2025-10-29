@@ -3,14 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF66B3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+development;Learning+SQL+and+front-end;Turning+ideas+into+reality+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF66B3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+development;Learning+SQL+and+Front-End;Turning+ideas+into+reality+💫" alt="Typing SVG" />
 </p>
-
 
 ---
 
 ### 🌐 Let's Stay Connected:
-[![Linkedin Badge](https://img.shields.io/badge/-Lívia_Alkimim-ff66b3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviaalkds)](https://www.linkedin.com/in/liviaalkds)
+[![LinkedIn](https://img.shields.io/badge/-Lívia_Alkimim-ff66b3?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liviaalkds)
 
 ---
 
@@ -34,3 +33,8 @@
 > “I love turning ideas into real and functional projects.  
 > Every new language I learn is a new tool to create something meaningful.”
 
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-streak-stats@master/generated/animated.svg" alt="GitHub Stats" />
+</p>
