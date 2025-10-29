@@ -18,6 +18,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -27,6 +28,11 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
+### 💡 About Me:
+> “I love turning ideas into real and functional projects.  
+> Every new language I learn is a new tool to create something meaningful.”
+
 
 ### 💡 About Me:
 > “I love turning ideas into real and functional projects.  
