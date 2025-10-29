@@ -1,10 +1,6 @@
 <h1 align="center">
   💗 Hello, I'm <span style="color:#ff66b3;">Lívia!</span> 💻
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF66B3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+development;Learning+SQL+and+Front-End;Turning+ideas+into+reality+💫" alt="Typing SVG" />
-</p>
+</h1> 
 
 ---
 
@@ -34,7 +30,3 @@
 > Every new language I learn is a new tool to create something meaningful.”
 
 ---
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-streak-stats@master/generated/animated.svg" alt="GitHub Stats" />
-</p>
