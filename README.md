@@ -8,14 +8,8 @@
             "Java",
             "Python",
             "C#",
-            "Dart",
             "SQL",
             "JavaScript"
-    );
-
-    private final List<String> frameworks = List.of(
-            "Flutter",
-            "Django"
     );
 
     private final List<String> frontend = List.of(
@@ -32,7 +26,11 @@
             "Figma"
     );
 
-    private final String operatingSystem = "Linux Mint";
+    private final List<String> learning = List.of(
+            "Flutter",
+            "Dart",
+            "Django"
+    );
 
     public String currentFocus() {
         return "Building scalable web and mobile applications.";
@@ -44,4 +42,3 @@
                 "linkedin.com/in/liviaalkds"
         );
     }
-}
