@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E2%9D%A4+Hello%2C+World!;%F0%9F%91%8B+I'm+L%C3%ADvia+Alkimim;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-public class LiviaAlkimim {
-
     private final String role = "Full Stack Developer";
 
     private final List<String> languages = List.of(
