@@ -10,14 +10,13 @@ private final List<String> languages = List.of(
         "Java",
         "Python",
         "C#",
-        "SQL",
-        "JavaScript"
+        "SQL"
 );
 
 private final List<String> frontend = List.of(
         "HTML",
         "CSS",
-        "JavaScript"
+        "Bootstrap"
 );
 
 private final List<String> tools = List.of(
